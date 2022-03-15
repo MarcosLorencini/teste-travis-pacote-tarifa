@@ -1,9 +1,3 @@
 language: java
-jdk:
-  - openjdkk11
-  
-script: ./mvnw clean install
 
-notifications:
-  email: mlorencinif@gmail.com
   
